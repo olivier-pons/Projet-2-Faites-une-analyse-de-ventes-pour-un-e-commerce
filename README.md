@@ -12,7 +12,7 @@ Le Projetavait pour a but  d'analyser la baisse de chiffre d'affaire et les pré
 - Clarté
 - Dynamiser une présentation
 
---Commentaires de l'évaluateur--
+*Commentaires de l'évaluateur*
 
 Livrable
 
