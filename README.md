@@ -14,12 +14,13 @@ Le Projetavait pour a but  d'analyser la baisse de chiffre d'affaire et les pré
 
 *Commentaires de l'évaluateur*
 
-Livrable
+## Livrable
 
-Points forts : Livrable clair et concis.
+**Points forts** : 
+Des recommendations pour améliorer la conversion des ventes.
 
-Axes d'amélioration : Attention tout de même à l'élaboration du planning de formation qui m'a semblé un peu "aléatoire".
+**Axes d'amélioration** :
 
-Soutenance
+**Soutenance**
 
-Remarques : Parfois un manque de fluidité dans les réponses et l'utilisation de l'outil, mais nous paufinerons tout ça tout au long de la formation.
+Remarques : N/A
