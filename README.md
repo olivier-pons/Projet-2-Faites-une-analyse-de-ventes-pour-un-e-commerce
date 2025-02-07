@@ -11,10 +11,9 @@ Le Projetavait pour a but  d'analyser la baisse de chiffre d'affaire et les pré
 - synthetiser.
 - Clarté
 - Dynamiser une présentation
+##  Commentaires de l'évaluateur
 
-*Commentaires de l'évaluateur*
-
-## Livrable
+*Livrable*
 
 **Points forts** : 
 Des recommendations pour améliorer la conversion des ventes.
